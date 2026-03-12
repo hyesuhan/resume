@@ -524,10 +524,10 @@ const data = {
       logo: "🌿",
       title: "DearDream | 이어드림",
       role: "Backend Leader",
-      screenshot1: "/src/assets/images/deardream/1.png",
-      screenshot2: "/src/assets/images/deardream/2.png",
-      screenshot3: "/src/assets/images/deardream/3.png",
-      gif: " /src/assets/images/deardream/deadreamgif.gif",
+      screenshot1: "/images/deardream/1.png",
+      screenshot2: "/images/deardream/2.png",
+      screenshot3: "/images/deardream/3.png",
+      gif: " /images/deardream/deadreamgif.gif",
       githubUrl: "https://github.com/DearDreamTeam/deardream-backend",
       notionUrl: "https://glib-tellurium-57e.notion.site/2de635ead8e5808aa0caf22d627cc39c?pvs=74",
       desc: "가족들이 한 달 동안 쓴 글과 사진들을 모아 한 권의 책으로 만들어 받는 월간 책자 서비스",
@@ -542,35 +542,35 @@ const data = {
       period: "2025.03 - 2026.02",
       items: ["21기 백엔드 수료", "프로젝트 제작 및 팀장", "22기 백엔드 운영진 및 스터디 진행"],
       // 사진 4장 (첫 번째 줄)
-      row1: ["/src/assets/images/ceos/ceos1.jpg", "/src/assets/images/ceos/ceos2.jpg", "/src/assets/images/ceos/win.jpg", "/src/assets/images/ceos/ceosleader.png"],
+      row1: ["/images/ceos/ceos1.jpg", "/images/ceos/ceos2.jpg", "/images/ceos/win.jpg", "/images/ceos/ceosleader.png"],
     },
     {
       name: "UMC",
       period: "2024.03-2024.08",
       items: ["6기 백엔드 수료", "프로젝트 제작 · 백엔드"],
       // 사진 1장 (두 번째 줄)
-      row2: "/src/assets/images/etc/umc.jpg",
+      row2: "/images/etc/umc.jpg",
     },
     {
       name: "한국 프로젝트 협회 사이트 나우",
       period: "2025.10-2025.01",
       items: ["2기 백엔드 수료", "Security & Test 스터디 진행", "프로젝트 제작 · 백엔드"],
       // 사진 1장 (두 번째 줄)
-      row2: "/src/assets/images/etc/sidenow.png",
+      row2: "/images/etc/sidenow.png",
     },
     {
       name: "Data Science 코딩스터디",
       period: "2024.07-2024.08",
       items: ["Python 데이터 스터디 팀 부스트 리더"],
       // 사진 1장 (두 번째 줄)
-      row2: "/src/assets/images/etc/DataScience.png",
+      row2: "/images/etc/DataScience.png",
     },
     {
       name: "고스락",
       period: "2022.03 · NOW",
       items: ["교내 밴드 동아리(기타)", "10회+ 공연, 40곡+ 연주"],
       // 사진 8장 (세 번째 줄, 가로 스크롤)
-      row3: ["/src/assets/images/band/band1.jpg", "/src/assets/images/band/band2.jpg", "/src/assets/images/band/band3.jpg", "/src/assets/images/band/band4.jpg", "/src/assets/images/band/band5.jpg", "/src/assets/images/band/band6.jpg", "/src/assets/images/band/band7.jpg", "/src/assets/images/band/band8.jpg"],
+      row3: ["/images/band/band1.jpg", "/images/band/band2.jpg", "/images/band/band3.jpg", "/images/band/band4.jpg", "/images/band/band5.jpg", "/images/band/band6.jpg", "/images/band/band7.jpg", "/images/band/band8.jpg"],
     },
   ],
   education: [{ icon: "🎓", name: "고스락", period: "2022.03 · NOW", detail: "2년 밴드 연이어 · 20명 이상 담대" }],
